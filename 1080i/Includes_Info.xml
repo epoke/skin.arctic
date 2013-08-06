@@ -38,10 +38,10 @@
 					</control>
 					<control type="label">
 						<posx>190</posx>
-						<posy>74</posy>
+						<posy>85</posy>
 						<width>300</width>
 						<height>78</height>
-						<label>$INFO[System.Date(ddd)], $INFO[System.Date(dd MMM yyyy)]</label>
+						<label>$INFO[System.Date(yyyy. MM. dd.)] $INFO[System.Date(ddd)]</label>
 						<font>Font-Alaska-S28-L</font>
 						<textcolor>Mod_Tags</textcolor>
 						<align>right</align>
@@ -76,10 +76,10 @@
 					</control>
 					<control type="label">
 						<posx>190</posx>
-						<posy>74</posy>
+						<posy>85</posy>
 						<width>300</width>
 						<height>78</height>
-						<label>$INFO[System.Date(ddd)], $INFO[System.Date(dd MMM yyyy)]</label>
+						<label>$INFO[System.Date(yyyy. MM. dd.)] $INFO[System.Date(ddd)]</label>
 						<font>Font-Alaska-S28-L</font>
 						<textcolor>mod-infotags</textcolor>
 						<align>right</align>

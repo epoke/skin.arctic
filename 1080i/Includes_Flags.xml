@@ -1,9 +1,18 @@
-<includes>
+﻿<includes>
 
     <variable name="MovieMPAAVar">
+        <value condition="StringCompare(Skin.String(MovieMPAALang),KR)">$VAR[MovieMPAAVar_KR]</value>
         <value condition="StringCompare(Skin.String(MovieMPAALang),DE)">$VAR[MovieMPAAVar_DE]</value>
         <value condition="StringCompare(Skin.String(MovieMPAALang),UK)">$VAR[MovieMPAAVar_UK]</value>
         <value>$VAR[MovieMPAAVar_US]</value>
+    </variable>
+    
+    <variable name="MovieMPAAVar_KR">
+        <value condition="SubString(ListItem.MPAA,전체) | SubString(Container(100).ListItem.Property(MPAA),전체)">kr/KR_Certificate_All</value>
+        <value condition="SubString(ListItem.MPAA,12세) | SubString(Container(100).ListItem.Property(MPAA),12세)">kr/KR_Certificate_12</value>
+        <value condition="SubString(ListItem.MPAA,15세) | SubString(Container(100).ListItem.Property(MPAA),15세)">kr/KR_Certificate_15</value>
+        <value condition="SubString(ListItem.MPAA,불가) | SubString(Container(100).ListItem.Property(MPAA),불가)">kr/KR_Certificate_18</value>
+        <value condition="SubString(ListItem.MPAA,제한) | SubString(Container(100).ListItem.Property(MPAA),제한)">kr/KR_Certificate_R</value>
     </variable>
     
     <variable name="MovieMPAAVar_DE">

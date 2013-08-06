@@ -128,10 +128,10 @@
                     </focusedlayout>
                     <content>
                         <item id="1">
-                            <description>DE</description>
-                            <label>Deutschland</label>
-                            <label2>DE</label2>
-                            <onclick>Skin.SetString(MovieMPAALang,DE)</onclick>
+                            <description>KR</description>
+                            <label>Korea</label>
+                            <label2>KR</label2>
+                            <onclick>Skin.SetString(MovieMPAALang,KR)</onclick>
                             <onclick>PreviousMenu</onclick>
                         </item>
                         <item id="39">

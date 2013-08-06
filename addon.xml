@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.arctic" version="0.2.6" name="Arctic" provider-name="jurialmunkey">
+<addon id="skin.arctic.korean" version="0.2.6" name="Arctic Korean" provider-name="XBMC-Korea">
 	<requires>
 		<import addon="xbmc.gui" version="4.0.0" />
 		<import addon="service.skin.widgets" version="0.0.25" />
