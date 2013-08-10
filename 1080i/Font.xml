@@ -12,21 +12,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S22</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>22</size>
-        </font>
-        <font>
-            <name>Font-Condensed-S23</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>23</size>
-        </font>
-        <font>
-            <name>Font-Condensed-S24</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>24</size>
-        </font>
-        <font>
             <name>Font-Condensed-S25</name>
             <filename>NanumGothic.ttf</filename>
             <size>25</size>
@@ -126,11 +111,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S35</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>35</size>
-        </font>
-        <font>
             <name>Font-Condensed-S36</name>
             <filename>NanumGothic.ttf</filename>
             <size>36</size>
@@ -213,11 +193,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S49</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>49</size>
-        </font>
-        <font>
             <name>Font-Condensed-S52-B</name>
             <filename>NanumGothic.ttf</filename>
             <size>52</size>
@@ -243,11 +218,6 @@
             <filename>NanumGothic.ttf</filename>
             <size>80</size>
             <style>bold</style>
-        </font>
-        <font>
-            <name>Font-Condensed-S100</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>100</size>
         </font>
         
         <!-- Confluence Fonts (For Add-On Compatibility) -->
@@ -354,16 +324,6 @@
             <filename>NanumGothic.ttf</filename>
             <size>22</size>
         </font>
-        <font>
-            <name>Font-Alaska-S18-L</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>18</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S18-NC</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>18</size>
-        </font>
 		<font>
             <name>Font-Alaska-S25-B</name>
             <filename>NanumGothic.ttf</filename>
@@ -401,26 +361,9 @@
             <size>52</size>
         </font>
         <font>
-            <name>Font-Alaska-S28-L-B</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>28</size>
-            <style>bold</style>
-        </font>
-        <font>
             <name>Font-Alaska-S28</name>
             <filename>NanumGothic.ttf</filename>
             <size>28</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S29-L</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>29</size>
-            <style>bold</style>
-        </font>
-		<font>
-            <name>Font-Alaska-S29</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>29</size>
         </font>
         <font>
             <name>Font-Alaska-S29-NC</name>
@@ -428,32 +371,9 @@
             <size>29</size>
         </font>
         <font>
-            <name>Font-Alaska-S29-NC-B</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>29</size>
-            <style>bold</style>
-        </font>
-		
-        <font>
             <name>Font-Alaska-S29-BL</name>
             <filename>NanumGothicBold.ttf</filename>
             <size>29</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S31-B</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>31</size>
-            <style>bold</style>
-        </font>
-        <font>
-            <name>Font-Alaska-S31</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>31</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S31-L</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>31</size>
         </font>
         <font>
             <name>Font-Alaska-S32-BL</name>
@@ -464,11 +384,6 @@
             <name>Font-Alaska-S33</name>
             <filename>NanumGothicBold.ttf</filename>
             <size>28</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S34-L</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>34</size>
         </font>
         <font>
             <name>Font-Alaska-S34-BL</name>
@@ -484,11 +399,6 @@
             <name>Font-Alaska-S38-BL</name>
             <filename>NanumGothicBold.ttf</filename>
             <size>38</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S40</name>
-            <filename>NanumGothic.ttf</filename>
-            <size>40</size>
         </font>
         <font>
             <name>Font-Alaska-S45</name>
@@ -517,11 +427,6 @@
             <size>64</size>
         </font>
         <font>
-            <name>Font-Alaska-S92-BL</name>
-            <filename>NanumGothicBold.ttf</filename>
-            <size>92</size>
-        </font>
-        <font>
             <name>Font-Alaska-S100</name>
             <filename>NanumGothicBold.ttf</filename>
             <size>100</size>
@@ -545,71 +450,9 @@
             <size>52</size>
         </font>        
         <font>
-            <name>Font-Metro-Tile-S</name>
-            <filename>NanumGothicBold.ttf</filename>
-            <size>25</size>
-        </font>
-        <font>
-            <name>Font-Metro-Tile</name>
-            <filename>NanumGothicBold.ttf</filename>
-            <size>27</size>
-        </font>
-        <font>
-            <name>Font-Metro-Widget</name>
-            <filename>NanumGothicBold.ttf</filename>
-            <size>27</size>
-        </font>
-        <font>
-            <name>Font-Metro-Menu</name>
-            <filename>NanumGothicBold.ttf</filename>
-            <size>42</size>
-        </font>
-        
-        <font>
-        	<name>Font-OSD-Volume</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>42</size>
-        </font>
-        <font>
-        	<name>Font-OSD-FwRw</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>52</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-OSD-Clock-Large</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>72</size>
-            <style>bold</style>
-        </font>
-        <font>
         	<name>Font-Episode-Large</name>
         	<filename>NanumGothic.ttf</filename>
             <size>92</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Large</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>96</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>76</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Minutes</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>52</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Day</name>
-        	<filename>NanumGothic.ttf</filename>
-            <size>34</size>
             <style>bold</style>
         </font>
         
@@ -635,11 +478,7 @@
         	<filename>NanumGothic.ttf</filename>
             <size>240</size>
         </font>
-        <font>
-        	<name>Font-OSD-Clock</name>
-        	<filename>NanumGothicBold.ttf</filename>
-            <size>34</size>
-        </font>
+
         <font>
             <name>Font-Info-Plot</name>
             <filename>NanumGothic.ttf</filename>
@@ -660,21 +499,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S22</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>22</size>
-        </font>
-        <font>
-            <name>Font-Condensed-S23</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>23</size>
-        </font>
-        <font>
-            <name>Font-Condensed-S24</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>24</size>
-        </font>
-        <font>
             <name>Font-Condensed-S25</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>25</size>
@@ -774,11 +598,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S35</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>35</size>
-        </font>
-        <font>
             <name>Font-Condensed-S36</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>36</size>
@@ -861,11 +680,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S49</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>49</size>
-        </font>
-        <font>
             <name>Font-Condensed-S52-B</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>52</size>
@@ -891,11 +705,6 @@
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>80</size>
             <style>bold</style>
-        </font>
-        <font>
-            <name>Font-Condensed-S100</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>100</size>
         </font>
         
         <!-- Confluence Fonts (For Add-On Compatibility) -->
@@ -1002,16 +811,6 @@
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>22</size>
         </font>
-        <font>
-            <name>Font-Alaska-S18-L</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>18</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S18-NC</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>18</size>
-        </font>
 		<font>
             <name>Font-Alaska-S25-B</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
@@ -1049,59 +848,20 @@
             <size>52</size>
         </font>
         <font>
-            <name>Font-Alaska-S28-L-B</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>28</size>
-            <style>bold</style>
-        </font>
-        <font>
             <name>Font-Alaska-S28</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>28</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S29-L</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>29</size>
-            <style>bold</style>
-        </font>
-		<font>
-            <name>Font-Alaska-S29</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>29</size>
         </font>
         <font>
             <name>Font-Alaska-S29-NC</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>29</size>
         </font>
-        <font>
-            <name>Font-Alaska-S29-NC-B</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>29</size>
-            <style>bold</style>
-        </font>
 		
         <font>
             <name>Font-Alaska-S29-BL</name>
             <filename>Roboto-NanumGothic-Bold.ttf</filename>
             <size>29</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S31-B</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>31</size>
-            <style>bold</style>
-        </font>
-        <font>
-            <name>Font-Alaska-S31</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>31</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S31-L</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>31</size>
         </font>
         <font>
             <name>Font-Alaska-S32-BL</name>
@@ -1112,11 +872,6 @@
             <name>Font-Alaska-S33</name>
             <filename>Roboto-NanumGothic-Bold.ttf</filename>
             <size>28</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S34-L</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>34</size>
         </font>
         <font>
             <name>Font-Alaska-S34-BL</name>
@@ -1132,11 +887,6 @@
             <name>Font-Alaska-S38-BL</name>
             <filename>Roboto-NanumGothic-Bold.ttf</filename>
             <size>38</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S40</name>
-            <filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>40</size>
         </font>
         <font>
             <name>Font-Alaska-S45</name>
@@ -1165,11 +915,6 @@
             <size>64</size>
         </font>
         <font>
-            <name>Font-Alaska-S92-BL</name>
-            <filename>Roboto-NanumGothic-Bold.ttf</filename>
-            <size>92</size>
-        </font>
-        <font>
             <name>Font-Alaska-S100</name>
             <filename>Roboto-NanumGothic-Bold.ttf</filename>
             <size>100</size>
@@ -1193,71 +938,9 @@
             <size>52</size>
         </font>        
         <font>
-            <name>Font-Metro-Tile-S</name>
-            <filename>Roboto-NanumGothic-Bold.ttf</filename>
-            <size>25</size>
-        </font>
-        <font>
-            <name>Font-Metro-Tile</name>
-            <filename>Roboto-NanumGothic-Bold.ttf</filename>
-            <size>27</size>
-        </font>
-        <font>
-            <name>Font-Metro-Widget</name>
-            <filename>Roboto-NanumGothic-Bold.ttf</filename>
-            <size>27</size>
-        </font>
-        <font>
-            <name>Font-Metro-Menu</name>
-            <filename>Roboto-NanumGothic-Bold.ttf</filename>
-            <size>42</size>
-        </font>
-        
-        <font>
-        	<name>Font-OSD-Volume</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>42</size>
-        </font>
-        <font>
-        	<name>Font-OSD-FwRw</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>52</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-OSD-Clock-Large</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>72</size>
-            <style>bold</style>
-        </font>
-        <font>
         	<name>Font-Episode-Large</name>
         	<filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>92</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Large</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>96</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>76</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Minutes</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>52</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Day</name>
-        	<filename>Roboto-NanumGothic-Regular.ttf</filename>
-            <size>34</size>
             <style>bold</style>
         </font>
         
@@ -1283,11 +966,7 @@
         	<filename>Roboto-NanumGothic-Regular.ttf</filename>
             <size>240</size>
         </font>
-        <font>
-        	<name>Font-OSD-Clock</name>
-        	<filename>Roboto-NanumGothic-Bold.ttf</filename>
-            <size>34</size>
-        </font>
+
         <font>
             <name>Font-Info-Plot</name>
             <filename>Roboto-NanumGothic-Regular.ttf</filename>
@@ -1308,21 +987,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S22</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>22</size>
-        </font>
-        <font>
-            <name>Font-Condensed-S23</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>23</size>
-        </font>
-        <font>
-            <name>Font-Condensed-S24</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>24</size>
-        </font>
-        <font>
             <name>Font-Condensed-S25</name>
             <filename>alaska_light_nocaps.ttf</filename>
             <size>25</size>
@@ -1422,11 +1086,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S35</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>35</size>
-        </font>
-        <font>
             <name>Font-Condensed-S36</name>
             <filename>alaska_light_nocaps.ttf</filename>
             <size>36</size>
@@ -1509,11 +1168,6 @@
             <style>bold</style>
         </font>
         <font>
-            <name>Font-Condensed-S49</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>49</size>
-        </font>
-        <font>
             <name>Font-Condensed-S52-B</name>
             <filename>alaska_light_nocaps.ttf</filename>
             <size>52</size>
@@ -1539,11 +1193,6 @@
             <filename>alaska_light_nocaps.ttf</filename>
             <size>80</size>
             <style>bold</style>
-        </font>
-        <font>
-            <name>Font-Condensed-S100</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>100</size>
         </font>
         
         <!-- Confluence Fonts (For Add-On Compatibility) -->
@@ -1650,16 +1299,6 @@
             <filename>alaska_regular.ttf</filename>
             <size>22</size>
         </font>
-        <font>
-            <name>Font-Alaska-S18-L</name>
-            <filename>alaska_regular.ttf</filename>
-            <size>18</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S18-NC</name>
-            <filename>alaska_light_nocaps.ttf</filename>
-            <size>18</size>
-        </font>
 		<font>
             <name>Font-Alaska-S25-B</name>
             <filename>alaska_cond.ttf</filename>
@@ -1697,26 +1336,9 @@
             <size>52</size>
         </font>
         <font>
-            <name>Font-Alaska-S28-L-B</name>
-            <filename>alaska_regular.ttf</filename>
-            <size>28</size>
-            <style>bold</style>
-        </font>
-        <font>
             <name>Font-Alaska-S28</name>
             <filename>alaska_cond.ttf</filename>
             <size>28</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S29-L</name>
-            <filename>alaska_light.ttf</filename>
-            <size>29</size>
-            <style>bold</style>
-        </font>
-		<font>
-            <name>Font-Alaska-S29</name>
-            <filename>alaska_cond.ttf</filename>
-            <size>29</size>
         </font>
         <font>
             <name>Font-Alaska-S29-NC</name>
@@ -1724,32 +1346,9 @@
             <size>29</size>
         </font>
         <font>
-            <name>Font-Alaska-S29-NC-B</name>
-            <filename>alaska_nocaps.ttf</filename>
-            <size>29</size>
-            <style>bold</style>
-        </font>
-		
-        <font>
             <name>Font-Alaska-S29-BL</name>
             <filename>alaska_black.ttf</filename>
             <size>29</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S31-B</name>
-            <filename>alaska_cond.ttf</filename>
-            <size>31</size>
-            <style>bold</style>
-        </font>
-        <font>
-            <name>Font-Alaska-S31</name>
-            <filename>alaska_cond.ttf</filename>
-            <size>31</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S31-L</name>
-            <filename>alaska_regular.ttf</filename>
-            <size>31</size>
         </font>
         <font>
             <name>Font-Alaska-S32-BL</name>
@@ -1760,11 +1359,6 @@
             <name>Font-Alaska-S33</name>
             <filename>alaska_black.ttf</filename>
             <size>28</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S34-L</name>
-            <filename>alaska_regular.ttf</filename>
-            <size>34</size>
         </font>
         <font>
             <name>Font-Alaska-S34-BL</name>
@@ -1780,11 +1374,6 @@
             <name>Font-Alaska-S38-BL</name>
             <filename>alaska_black.ttf</filename>
             <size>38</size>
-        </font>
-        <font>
-            <name>Font-Alaska-S40</name>
-            <filename>alaska_cond.ttf</filename>
-            <size>40</size>
         </font>
         <font>
             <name>Font-Alaska-S45</name>
@@ -1813,11 +1402,6 @@
             <size>64</size>
         </font>
         <font>
-            <name>Font-Alaska-S92-BL</name>
-            <filename>alaska_black.ttf</filename>
-            <size>92</size>
-        </font>
-        <font>
             <name>Font-Alaska-S100</name>
             <filename>alaska_black.ttf</filename>
             <size>100</size>
@@ -1841,71 +1425,9 @@
             <size>52</size>
         </font>        
         <font>
-            <name>Font-Metro-Tile-S</name>
-            <filename>alaska_black.ttf</filename>
-            <size>25</size>
-        </font>
-        <font>
-            <name>Font-Metro-Tile</name>
-            <filename>alaska_black.ttf</filename>
-            <size>27</size>
-        </font>
-        <font>
-            <name>Font-Metro-Widget</name>
-            <filename>alaska_black.ttf</filename>
-            <size>27</size>
-        </font>
-        <font>
-            <name>Font-Metro-Menu</name>
-            <filename>alaska_black.ttf</filename>
-            <size>42</size>
-        </font>
-        
-        <font>
-        	<name>Font-OSD-Volume</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>42</size>
-        </font>
-        <font>
-        	<name>Font-OSD-FwRw</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>52</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-OSD-Clock-Large</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>72</size>
-            <style>bold</style>
-        </font>
-        <font>
         	<name>Font-Episode-Large</name>
         	<filename>BebasNeue.ttf</filename>
             <size>92</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Large</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>96</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>76</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Minutes</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>52</size>
-            <style>bold</style>
-        </font>
-        <font>
-        	<name>Font-Simple-Clock-Day</name>
-        	<filename>BebasNeue.ttf</filename>
-            <size>34</size>
             <style>bold</style>
         </font>
         
@@ -1931,11 +1453,7 @@
         	<filename>alaska_thin.ttf</filename>
             <size>240</size>
         </font>
-        <font>
-        	<name>Font-OSD-Clock</name>
-        	<filename>alaska_black.ttf</filename>
-            <size>34</size>
-        </font>
+
         <font>
             <name>Font-Info-Plot</name>
             <filename>alaska_light_nocaps.ttf</filename>

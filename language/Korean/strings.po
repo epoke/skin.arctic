@@ -1021,10 +1021,10 @@ msgctxt "#42434"
 msgid "Show in-progress indicators"
 msgstr ""
 
-msgctxt "#42435"
-msgid "Use light osd"
-msgstr "밝ㅇ느 OSD 사용"
-
 msgctxt "#42436"
 msgid "Prefer numeric rating"
 msgstr "평점 숫자 표시 선호"
+
+msgctxt "#42437"
+msgid "Use dark osd"
+msgstr "어두운 OSD 사용"
